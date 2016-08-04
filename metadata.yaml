@@ -1,0 +1,26 @@
+_repo: Wakulla--a-story-of-adventure-in-Florida_4393
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Munroe, Kirk
+    birthdate: 1850
+    deathdate: 1930
+    gutenberg_agent_id: '1480'
+    url: http://www.gutenberg.org/2009/agents/1480
+    wikipedia: http://en.wikipedia.org/wiki/Kirk_Munroe
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Florida -- Fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Wakulla: a story of adventure in Florida'
+url: http://www.gutenberg.org/ebooks/4393
